@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lujian/DesignPattern/factory method pattern/C++/product.cpp
+iostream
+-
+product.h
+/home/lujian/DesignPattern/factory method pattern/C++/product.h
+
+/home/lujian/DesignPattern/factory method pattern/C++/product.h
+iostream
+-
+string
+-
+

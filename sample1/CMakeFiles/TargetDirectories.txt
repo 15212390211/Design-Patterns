@@ -1,0 +1,3 @@
+/home/lujian/DesignPattern/factory method pattern/C++/CMakeFiles/edit_cache.dir
+/home/lujian/DesignPattern/factory method pattern/C++/CMakeFiles/rebuild_cache.dir
+/home/lujian/DesignPattern/factory method pattern/C++/CMakeFiles/sample_factory.dir

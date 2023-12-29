@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/sample_factory.dir/client.cpp.o CMakeFiles/sample_factory.dir/product.cpp.o  -o sample_factory 
